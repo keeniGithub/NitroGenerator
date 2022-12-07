@@ -1,4 +1,5 @@
 import random as rd
+from time import sleep
 aLetter = 'ABCDEFJHIGKLMNOPQRSTUVWXYZ'
 uLetter = 'abcdefjhigklmnopqrstuvwxyz'
 num = '0123456789'
@@ -12,4 +13,4 @@ while lenth > 0:
     print("discord.gift/" + url)
     
     lenth = lenth - 1
-  
+sleep(5000)  
