@@ -13,15 +13,6 @@
 </h2>
 ⠀⠀
 <h2 align="center">
-
-  <b>Libary used in the code</b>
-   
-</h2>
-
-```python
-import random #libary for random`s simbwol
-```
-<h2 align="center">
 </h2>
 ⠀⠀
 <h4 align="center">
