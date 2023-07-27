@@ -11,18 +11,11 @@
   <b>The usual random link generator Discord Nitro
 <h2 align="center">
 </h2>
-⠀⠀
-<h2 align="center">
-</h2>
-⠀⠀
-<h4 align="center">
-
 
 <p align="center">
   <b>Other links: </b><br>
   <a href="https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA">Youtube</a> |
   <a href="https://www.donationalerts.com/r/itzkeeni">Donate</a> |
-  <a href="https://t.me/keenitelega">Telegram </a>|
-  <a href="https://discord.gg/knPVuaR3Kg">Discord</a>
+  <a href="https://t.me/kenyka">Telegram </a>|
   <br><br>
 </p>
