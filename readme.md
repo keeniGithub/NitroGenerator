@@ -12,10 +12,14 @@
 <h2 align="center">
 </h2>
 
-<p align="center">
-  <b>Other links: </b><br>
-  <a href="https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA">Youtube</a> |
-  <a href="https://www.donationalerts.com/r/itzkeeni">Donate</a> |
-  <a href="https://t.me/kenyka">Telegram </a>|
-  <br><br>
-</p>
+<h1 align="center">Other link</h1>
+
+<div align="center">
+
+[Bstore](https://t.me/thebelkin)
+|
+[telegram](https://t.me/kenyka)
+|
+[YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
+|
+[GGdash](https://discord.gg/r6gCRR75Un)
