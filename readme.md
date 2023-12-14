@@ -5,21 +5,13 @@
   <b>Nitro Generator</b>
 </h1>
 
-
- <p align="center">   
-<h3 align="center">
-  <b>The usual random link generator Discord Nitro
-<h2 align="center">
-</h2>
-
 <h1 align="center">Other link</h1>
 
 <div align="center">
 
-[Bstore](https://t.me/thebelkin)
+[Telegram](https://t.me/kenyka)
 |
-[telegram](https://t.me/kenyka)
+[Discord](https://discord.gg/nYFrpwRHAY)
 |
 [YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
-|
-[GGdash](https://discord.gg/r6gCRR75Un)
+</div>
